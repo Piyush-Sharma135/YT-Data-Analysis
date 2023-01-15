@@ -1,2 +1,4 @@
 # YT-Data-Analysis
-Query the dataset to solve business queries and generate insights
+- Query the dataset in SQL SERVER to solve business queries
+- Export results into EXCEL
+- Create Report that generates business insights
